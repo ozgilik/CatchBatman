@@ -1,3 +1,4 @@
 # CatchBatman
-[img](screenshot.png)
+![Screenshot](screenshot.png)
+
 Game of catching batman via storyboard using Swift.
